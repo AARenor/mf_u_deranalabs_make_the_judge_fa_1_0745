@@ -1,4 +1,4 @@
-This is a Python program that writes one short text for make.fun's bounty `u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13`: it creates the configured output folder, saves the single line below as `entry.txt` with no trailing newline, and prints its character count.
+This is a Python program that writes one short text for make.fun's bounty `u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13`: it creates the configured output folder, saves the single line below as `entry.txt` with no trailing newline, and prints its character count. It uses only the Python standard library and makes no network requests.
 
 [![make.fun · u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13](https://make.fun/badge/u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13.svg)](https://make.fun/bounty/u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13)
 [![rank](https://make.fun/badge/u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13/AARenor/mf_u_deranalabs_make_the_judge_fa_1_0745/rank.svg)](https://make.fun/bounty/u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13/leaderboard)
